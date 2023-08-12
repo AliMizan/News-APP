@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Shanghai asks residents to stay in on Christmas as China COVID surges - Reuters",
+      "description": "Shanghai authorities urged residents to stay at home this weekend, seeking a toned-down Christmas in the nation's most populous city as COVID-19 rages nationwide after tough curbs were lifted.",
+      "url": "https://www.reuters.com/world/china/china-reports-zero-new-covid-deaths-dec-23-same-previous-day-2022-12-24/",
+      "urlToImage": "https://www.reuters.com/resizer/fO3lkvfc1_XwRxb1b3JUCFVIRCM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J7HVR4K7EZLIXA6SUAO4GUKR5A.jpg",
+      "publishedAt": "2022-12-24T08:18:00Z",
+      "content": "SHANGHAI, Dec 24 (Reuters) - Shanghai authorities urged residents to stay at home this weekend, seeking a toned-down Christmas in the nation's most populous city as COVID-19 rages nationwide after to… [+3019 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Samantha Pell",
+      "title": "Alex Ovechkin scores 802nd goal, passing Gordie Howe for second all-time - The Washington Post",
+      "description": "Ovechkin scores twice in a 4-1 win over the Winnipeg Jets at Capital One Arena. No. 802 comes on an empty net.",
+      "url": "https://www.washingtonpost.com/sports/2022/12/23/alex-ovechkin-802-goals/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTMFEOEMGBACVK4F5AVXX7AEGQ.jpg&w=1440",
+      "publishedAt": "2022-12-24T05:49:00Z",
+      "content": "Comment on this story\r\nAlex Ovechkin took the next step in his pursuit of hockey history Friday night, scoring his 801st and 802nd career goals to pass Gordie Howe for No. 2 on the NHLs all-time list… [+6612 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Andrew Dalton",
+      "title": "LA jury convicts Tory Lanez of shooting Megan Thee Stallion - The Associated Press",
+      "description": "LOS ANGELES (AP) — In a courtroom that turned chaotic after a trial that seethed with tension, a Los Angeles jury on Friday found rapper Tory Lanez guilty of three felonies in the 2020 shooting of hip-hop star Megan Thee Stallion .",
+      "url": "https://apnews.com/article/entertainment-megan-thee-stallion-tory-lanez-92e6ac82c072da5e17feaf0c3ca5b1d5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/eb19171223754410885ead3ac84cfcf8/3000.webp",
+      "publishedAt": "2022-12-24T05:00:42Z",
+      "content": "LOS ANGELES (AP) In a courtroom that turned chaotic after a trial that seethed with tension, a Los Angeles jury on Friday found rapper Tory Lanez guilty of three felonies in the 2020 shooting of hip-… [+4469 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Shooting sends Mall of America into lockdown - WCCO - CBS Minnesota",
+      "description": "A shooting prompted the Mall of America to go on lockdown Friday night on a busy shopping night less than two days before Christmas.",
+      "url": "https://www.youtube.com/watch?v=E3tokRMgEOM",
+      "urlToImage": "https://i.ytimg.com/vi/E3tokRMgEOM/maxresdefault.jpg",
+      "publishedAt": "2022-12-24T04:12:44Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Bray Wyatt attacks a cameraman with the Mandible Claw: SmackDown, Dec. 23, 2022 - WWE",
+      "description": "Bray Wyatt’s demons continue to plague him when he becomes lost in thought and attacks an unsuspecting target. Catch WWE action on WWE Network, FOX, USA Netw...",
+      "url": "https://www.youtube.com/watch?v=ap0XMrC9nIw",
+      "urlToImage": "https://i.ytimg.com/vi/ap0XMrC9nIw/maxresdefault.jpg",
+      "publishedAt": "2022-12-24T03:25:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Raquel Rodriguez battles Sonya Deville and Shayna Baszler — Gauntlet Match: SmackDown, Dec. 23, 2022 - WWE",
+      "description": "Raquel Rodriguez must overcome further damage to her injured arm when she takes on the vicious Sonya Deville and Shayna Baszler in two parts of a Gauntlet Ma...",
+      "url": "https://www.youtube.com/watch?v=tSbVORH-6Is",
+      "urlToImage": "https://i.ytimg.com/vi/tSbVORH-6Is/maxresdefault.jpg",
+      "publishedAt": "2022-12-24T03:20:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Facebook accused of violating privacy rules by sharing data, to pay $725 mn to settle suit | WION - WION",
+      "description": "Facebook parent Meta has agreed to pay $725 million to settle a class action lawsuit. The claim is that the social media giant gave third-party access to use...",
+      "url": "https://www.youtube.com/watch?v=ePCV2-J9OTs",
+      "urlToImage": "https://i.ytimg.com/vi/ePCV2-J9OTs/maxresdefault.jpg",
+      "publishedAt": "2022-12-24T02:55:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, Ray Sanchez, Eric Levenson",
+      "title": "A least 9 dead as massive winter storm leaves more than a million without power and bitter cold across much of US - CNN",
+      "description": "A massive winter storm battered the US on Friday with frigid temperatures, high winds and heavy snow, leaving at least nine people dead, knocking out power to over a million customers and wrecking holiday plans from coast to coast.",
+      "url": "https://www.cnn.com/2022/12/23/weather/christmas-arctic-winter-storm-poweroutages-friday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223020829-18-winter-weather-1222-illinois.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-24T02:34:00Z",
+      "content": "A massive winter storm battered the US on Friday with frigid temperatures, high winds and heavy snow, leaving at least nine people dead, knocking out power to over a million customers and wrecking ho… [+8886 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WHIO" },
+      "author": "WHIO Staff",
+      "title": "UPDATE: 4 dead after nearly 50-car pileup shuts down Ohio Turnpike near Sandusky - WHIO",
+      "description": "A nearly 50-car pileup that left three dead and multiple injured closed down the Ohio Turnpike Friday afternoon.",
+      "url": "https://www.whio.com/news/local/deadly-50-car-pileup-shuts-down-ohio-turnpike/OKIBI5H2T5F37NNAWAKCB7ECXE/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/vP6vIiEJ2ya7LOkHxhukuY1zeXE=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/12-23-2022/t_dcf837ff9fc74c679fe37947c48fd0d6_name_file_960x540_1200_v3_1_.jpg",
+      "publishedAt": "2022-12-24T02:22:00Z",
+      "content": "ERIE COUNTY — UPDATE @ 9:20 p.m.\r\nA nearly 50-car pileup that left four dead and multiple injured closed down the Ohio Turnpike Friday afternoon.\r\nOhio State Highway Patrol crews respond to multiple … [+640 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Chris Isidore",
+      "title": "Elon Musk's Twitter obsession isn't the core reason for Tesla stock's plunge - CNN",
+      "description": "A popular misconception has emerged about Elon Musk and Tesla: The megabillionaire's love affair with Twitter is the main reason Tesla shares have lost so much value this year. But Tesla's steep stock selloff this week proved that the problems at Musk's car c…",
+      "url": "https://www.cnn.com/2022/12/23/investing/elon-musk-tesla-twitter/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223093358-musk-tesla-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-24T02:14:00Z",
+      "content": "A popular misconception has emerged about Elon Musk and Tesla: The megabillionaires love affair with Twitter is the main reason Tesla shares have lost so much value this year. But Teslas steep stock … [+6919 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Texas coach Chris Beard's fiancee retracts allegations he strangled her - Fox News",
+      "description": "Chris Beard's fiancee said in a statement the Texas men's basketball coach did not strangle her, less than two weeks after he was arrested on an assault charge.",
+      "url": "https://www.foxnews.com/sports/texas-chris-beards-fiancee-retracts-allegations-coach-strangled-her",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/chris-beard.jpg",
+      "publishedAt": "2022-12-24T01:24:56Z",
+      "content": "Less than two weeks after Texas coach Chris Beard was arrested for allegedly strangling his fiancee, she walked back her claim.\r\nRandi Trew says there was a \"physical struggle\" between the two, who l… [+2468 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Cramer warns investors not to repeat this year's mistakes when it comes to tech stocks - CNBC Television",
+      "description": "Cramer explained why investors should be careful when dealing with the mega-cap tech stocks in their portfolio.",
+      "url": "https://www.youtube.com/watch?v=Ed_ZDNxFGj8",
+      "urlToImage": "https://i.ytimg.com/vi/Ed_ZDNxFGj8/maxresdefault.jpg",
+      "publishedAt": "2022-12-24T00:47:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Tera Roberts",
+      "title": "Fantasy Football Week 16 injuries: Nick Chubb, Christian McCaffrey cleared; Rhamondre Stevenson questionable - CBS Sports",
+      "description": "Tera Roberts breaks down all the injuries you need to know about ahead of Week 16.",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-injuries-nick-chubb-christian-mccaffrey-cleared-rhamondre-stevenson-questionable/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/01/8b8add30-34f6-466c-8749-b35070e8f423/thumbnail/1200x675/3c1b77ab5bd95d2ed883ab9310dbff29/nick-chubb-usatsi-browns-cbs.jpg",
+      "publishedAt": "2022-12-24T00:11:00Z",
+      "content": "From game-time decisions to injuries so significant they affect the value of every single position, let's break down the Fantasy and DFS impact of injuries for every Week 16 matchup. Know when to piv… [+13399 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Bankman-Fried, FTX execs received billions in hidden loans, ex-Alameda CEO says - Reuters",
+      "description": "<a href=\"/business/how-did-bankman-fried-secure-250-mln-bail-2022-12-22/\">Sam Bankman-Fried</a> and other FTX executives received billions of dollars in secret loans from the crypto mogul's Alameda Research, the hedge fund's former chief told a judge when she…",
+      "url": "https://www.reuters.com/legal/alamedas-ex-ceo-tells-judge-she-hid-billions-loans-ftx-execs-2022-12-23/",
+      "urlToImage": "https://www.reuters.com/resizer/MVth4PJYd7crjPNi_yEbudwYsIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HGIBS6V6DVLOFDBEJMSIQK4J54.jpg",
+      "publishedAt": "2022-12-23T23:59:00Z",
+      "content": "NEW YORK, Dec 23 (Reuters) - Sam Bankman-Fried and other FTX executives received billions of dollars in secret loans from the crypto mogul's Alameda Research, the hedge fund's former chief told a jud… [+3817 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Mary Clare Jalonick",
+      "title": "Jan. 6 report blames Trump, aims to prevent return to power - The Associated Press",
+      "description": "WASHINGTON (AP) — A massive final report  released by the House Jan. 6 committee late Thursday places the blame for the 2021 Capitol insurrection  on one person: former President Donald Trump.",
+      "url": "https://apnews.com/823941a7a7a7e8e354d3ce64ac8b5d99",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/50808d00148a4e03bdf61f865cedfe77/3000.jpeg",
+      "publishedAt": "2022-12-23T23:21:26Z",
+      "content": "WASHINGTON (AP) A massive final report released by the House Jan. 6 committee late Thursday places the blame for the 2021 Capitol insurrection on one person: former President Donald Trump. \r\nThe dens… [+8937 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Airlines cancel 5000 U.S. flights Friday amid fierce winter storms - Reuters",
+      "description": "Airlines canceled over 5,000 U.S. flights on Friday as massive <a href=\"/world/us/sprawling-us-storm-threatens-holiday-travel-bomb-cyclone-looms-2022-12-21/\">winter storm</a>s snarled airport operations around the United States and frustrated tens of thousand…",
+      "url": "https://www.reuters.com/world/us/airlines-cancel-3900-us-flights-friday-winter-storm-snarls-travel-2022-12-23/",
+      "urlToImage": "https://www.reuters.com/resizer/c5Mgi_8-A032NLdF3MM13aVnU6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JOAFHTEFVZNMRELTCRCUS73HKI.jpg",
+      "publishedAt": "2022-12-23T22:57:00Z",
+      "content": "WASHINGTON, Dec 23 (Reuters) - Airlines canceled over 5,000 U.S. flights on Friday as massive winter storms snarled airport operations around the United States and frustrated tens of thousands of hol… [+1908 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Gabriel Hays",
+      "title": "Pelosi mocked for wishing Americans a ‘Happy Shwanza’ during final speech as House Speaker: 'Shawarma?' - Fox News",
+      "description": "Conservatives on Twitter ripped House Speaker Nancy Pelosi, D-Calif., for accidentally saying, \"Happy Shwanza\" during remarks to Congress on Friday.",
+      "url": "https://www.foxnews.com/media/pelosi-mocked-wishing-americans-happy-shwanza-during-final-speech-house-speaker",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Shwanza.png",
+      "publishedAt": "2022-12-23T22:42:33Z",
+      "content": "Twitter grilled Speaker of the House Nancy Pelosi, D-Calif., on Friday for wishing people a \"Happy Shwanza,\" instead of \"Kwanzaa\" during remarks closing out the Houses vote on the \"omnibus\" spending … [+2704 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Paris shooting: Three dead and several injured in attack - BBC",
+      "description": "Protesters and police clash after what authorities say may have been a racially-motivated attack.",
+      "url": "https://www.bbc.com/news/world-europe-64077668",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/120E9/production/_128116937_p0dr8b0w.jpg",
+      "publishedAt": "2022-12-23T22:04:09Z",
+      "content": "Media caption, Watch: Unrest in Paris after Kurdish deaths\r\nA gunman has opened fire in central Paris, killing three people and wounding three others.\r\nThe attacker targeted a Kurdish cultural centre… [+3223 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Deidre McPhillips",
+      "title": "Flu activity remains high, but decreased for a second week in a row, according to CDC data - CNN",
+      "description": "Seasonal flu activity remains high in the United States, but continues to slow in most parts of the country, according to data published Friday by the US Centers for Disease Control and Prevention.",
+      "url": "https://www.cnn.com/2022/12/23/health/flu-activity-falls-again/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223125243-01-flu-season-florida-120122.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-23T21:54:00Z",
+      "content": "Seasonal flu activity remains high in the United States, but continues to slow in most parts of the country, according to data published Friday by the US Centers for Disease Control and Prevention.\r\n… [+2415 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "See a sportscaster react to going viral as backup weatherman - CNN",
+      "description": "CNN’s Kristin Fisher talks to KWWL sports reporter Mark Woodley, who went viral after a series of hilarious live hits while filling in as weatherman to cover...",
+      "url": "https://www.youtube.com/watch?v=wge-9mww0nE",
+      "urlToImage": "https://i.ytimg.com/vi/wge-9mww0nE/hqdefault.jpg",
+      "publishedAt": "2022-12-23T21:31:59Z",
+      "content": null
+    }
+  ]
+}
