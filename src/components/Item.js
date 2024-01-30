@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class Item extends Component {
   render() {
-    let { title, description, imageUrl,newsUrl,author,publishedAt } = this.props;
+    let { title,    description, imageUrl,newsUrl,author,publishedAt } = this.props;
     return (
       <>
         <div style={{padding:"15px"}}>
